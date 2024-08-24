@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "./wwwroot/js",
+    "baseUrl": "./wwwroot/js",
+    "rootDir": "./",
+    "paths": {
+      "HeroService": [ "/Services/HeroService" ] // Define an alias for your services directory
+    }
+  },
+  "include": [
+    "scripts/**/*",
+    "Data/Components/**/*",
+    "Services/**/*"
+  ]
+}

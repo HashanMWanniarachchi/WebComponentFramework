@@ -1,0 +1,122 @@
+{
+  "ApplicationMatch": "108365.1.6541",
+  "applicationType": 1,
+  "rows": [
+    {
+      "columns": [
+        {
+          "type": "column",
+          "span": 6,
+          "guid": "901416f9-1a58-0c0c-e0f7-48e472188bd2",
+          "isRoot": true,
+          "heightType": "auto",
+          "borderless": false,
+          "headerless": false,
+          "isSmallerThanAddComponent": false,
+          "mergeble": {},
+          "component": {
+            "applicationID": "react-wc",
+            "status": "1",
+            "name": "ReactWebComponent",
+            "applicationMatch": "ReactWebComponent",
+            "checksum": "f8c3028c522ee4c25ad68394ea3d9918ba847d64",
+            "description": "",
+            "isLazy": false,
+            "id": "react-wc"
+          },
+          "selected": true,
+          "borderRight": true,
+          "borderLeft": true,
+          "borderTop": true,
+          "borderBottom": true,
+          "background": true,
+          "growHeight": false
+        }
+      ],
+      "guid": "50d24602-fdda-7987-30af-8ffecc3fdb15"
+    },
+    {
+      "columns": [
+        {
+          "type": "column",
+          "span": 6,
+          "guid": "901416f9-1a58-0c0c-e0f7-48e472188bd3",
+          "isRoot": true,
+          "heightType": "auto",
+          "borderless": false,
+          "headerless": false,
+          "isSmallerThanAddComponent": false,
+          "mergeble": {},
+          "component": {
+            "applicationID": "vue-wc",
+            "status": "1",
+            "name": "VueWebComponent",
+            "applicationMatch": "VueWebComponent",
+            "checksum": "f8c3028c522ee4c25ad68394ea3d9918ba847d65",
+            "description": "",
+            "isLazy": false,
+            "id": "vue-wc"
+          },
+          "selected": true,
+          "borderRight": true,
+          "borderLeft": true,
+          "borderTop": true,
+          "borderBottom": true,
+          "background": true,
+          "growHeight": false
+        }
+      ],
+      "guid": "50d24602-fdda-7987-30af-8ffecc3fdb14"
+    }
+  ],
+  "parameterMap": {
+    "componentList": {
+      "901416f9-1a58-0c0c-e0f7-48e472188bd2": {
+        "applicationID": "react-wc",
+        "status": "1",
+        "span":  6,
+        "name": "ReactWebComponent",
+        "applicationMatch": "ReactWebComponent",
+        "checksum": "f8c3028c522ee4c25ad68394ea3d9918ba847d63",
+        "description": "",
+        "isLazy": true,
+        "parameternames": [
+          {
+            "parameterName": "userId",
+            "parameterDescription": "Newly created user identifier",
+            "parameterValue": "parameter1"
+          }
+        ],
+        "id": "react-wc"
+      },
+      "901416f9-1a58-0c0c-e0f7-48e472188bd3": {
+        "applicationID": "vue-wc",
+        "status": "1",
+        "span": 6,
+        "name": "VueWebComponent",
+        "applicationMatch": "VueWebComponent",
+        "checksum": "f8c3028c522ee4c25ad68394ea3d9918ba847d63",
+        "description": "",
+        "isLazy": true,
+        "parameternames": [
+          {
+            "parameterName": "userId",
+            "parameterDescription": "Newly created user identifier",
+            "parameterValue": "parameter1"
+          }
+        ],
+        "id": "vue-wc"
+      }
+    },
+    "parameterUrl": "parameter1/parameter2",
+    "popupParameters": {},
+    "paramKeys": [ "parameter1", "parameter2" ]
+  },
+  "parameterUrl": "parameter1/parameter2",
+  "lookupComponents": [ { "componentName": "InosaDataServiceRbClass" } ],
+  "numberOfInitiallyLoadedComponents": 1,
+  "rbappEditor": true,
+  "checkSum": "7f6b506807c380aaa49ee8db548ad384485587de",
+  "name": "WebComponentApp",
+  "serverFolderName": "108362.1.6541"
+}

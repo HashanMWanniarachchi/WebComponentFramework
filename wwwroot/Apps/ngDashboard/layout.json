@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "type": "column",
+          "span": 12,
+          "height": 500,
+          "guid": "f94765ba-4f8d-4bc7-9821-995193edd193",
+          "$$hashKey": "object:67",
+          "splitter": {
+            "panes": [
+              {
+                "guid": "d3972a86-81c5-da80-6eae-6eda95767a9e",
+                "size": "40.04449388209122%",
+                "componentsInPane": 0
+              },
+              {
+                "guid": "718a6d7a-70e2-9228-98a1-a4c11eaf573f",
+                "size": "29.92213570634038%",
+                "componentsInPane": 0
+              },
+              {
+                "size": "29.254727474972192%",
+                "guid": "ba41b030-461e-147e-c94b-182183a18dbb",
+                "componentsInPane": 0
+              }
+            ],
+            "dashBoard": true
+          }
+        }
+      ],
+      "$$hashKey": "object:64",
+      "guid": "006003e0-869a-9736-fb43-f74f5ba97311"
+    }
+  ],
+  "parameterMap": { "componentList": {} },
+  "numberOfInitiallyLoadedComponents": 0,
+  "checkSum": "340f647743c366874154411c923a21854447984b",
+  "name": "ngDashboard",
+  "serverFolderName": "103065.1.6898",
+  "ApplicationMatch": "103065.1.6898",
+  "applicationType": 1,
+  "lookupComponents": [],
+  "rbappEditor": true
+}
